@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techemmy
-- 👀 I’m interested in programming, content creation and dancing.
+- 👀 I’m interested in programming, content creation and football/soccer.
 - 🌱 I’m currently learning how to build desktop applications.
 - 💞️ I’m looking to collaborate on YouTube with a top tech influencer.
 - 📫 How to reach me. You can reach via YouTube(@Tech Emmy), Instagram(@tech_emmy), Twitter(@tech_emmyy).
