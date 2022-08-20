@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/twitter/follow/itechemmy?color=blue&logoColor=blue&style=for-the-badge"  alt="Twitter Followers" />
   </a>
   <a href="https://github.com/techemmy" target="_blank">
-    <img src="https://img.shields.io/github/stars/techemmy?&style=for-the-badge"  alt="Github Followers" />
+    <img src="https://img.shields.io/github/stars/techemmy?color=purple&style=for-the-badge"  alt="Github Followers" />
   </a>
   <a href="https://www.youtube.com/channel/UCi4tCYNfG7vWzxHJen3QOZg/" target="_blank">
     <img src="https://img.shields.io/youtube/channel/views/UCi4tCYNfG7vWzxHJen3QOZg?label=YouTube&style=for-the-badge" alt="YouTube Views" />
