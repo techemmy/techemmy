@@ -13,7 +13,7 @@
 <h1 align="center" > Emmanuel Oloyede </h1>
 <p align="center">
   <a href="https://twitter.com/iTechEmmy" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/itechemmy?style=flat-square"  alt="Twitter Followers" />
+    <img src="https://img.shields.io/twitter/follow/itechemmy?color=orange&logoColor=blue&style=for-the-badge"  alt="Twitter Followers" />
   </a>
   <a href="https://github.com/techemmy" target="_blank">
     <img src="https://img.shields.io/github/stars/techemmy?style=flat-square"  alt="Github Followers" />
