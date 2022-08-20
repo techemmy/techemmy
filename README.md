@@ -10,7 +10,7 @@
   - Instagram(@iTechEmmy)
   - Twitter(@iTechEmmy).
 
-h1 align="center" > Emmanuel Oloyede </h1>
+<h1 align="center" > Emmanuel Oloyede </h1>
 <p align="center">
   <a href="https://twitter.com/iTechEmmy" target="_blank">
     <img src="https://img.shields.io/twitter/follow/kdsgyt?label=Follow&logo=twitter&style=for-the-badge"  alt="Twitter Followers" />
