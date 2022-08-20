@@ -13,15 +13,14 @@
 <h1 align="center" > Emmanuel Oloyede </h1>
 <p align="center">
   <a href="https://twitter.com/iTechEmmy" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/itechemmy?color=orange&logoColor=blue&style=for-the-badge"  alt="Twitter Followers" />
+    <img src="https://img.shields.io/twitter/follow/itechemmy?color=blue&logoColor=blue&style=for-the-badge"  alt="Twitter Followers" />
   </a>
   <a href="https://github.com/techemmy" target="_blank">
-    <img src="https://img.shields.io/github/stars/techemmy?style=flat-square"  alt="Github Followers" />
+    <img src="https://img.shields.io/github/stars/techemmy?color=orange&style=for-the-badge"  alt="Github Followers" />
   </a>
-<!--   <a href="https://twitch.com/kdsgcodes" target="_blank">
-    <img src="https://img.shields.io/twitch/status/kdsgcodes?style=for-the-badge&logo=twitch"  alt="twitch Followers" />
+  <a href="https://www.youtube.com/channel/UCi4tCYNfG7vWzxHJen3QOZg/" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/views/UCi4tCYNfG7vWzxHJen3QOZg?label=YouTube&style=for-the-badge" alt="YouTube Views" />
   </a>
-  -->
 </p>
 <p align="center">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
