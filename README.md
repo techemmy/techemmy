@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @techemmy
 
 - 👀 I’m interested in programming, open source contribution, music, Tech YouTubing😁 and football/soccer.
-- 🌱 I’m currently learning NodeJS and Express.
-- 👨🏽‍💻 I'm seeking an entry-level opportunity to utilize Flask/Django, Javascript, HTML and CSS.
-- 💞️ I’m also looking to collaborate on YouTube with a top tech influencer.
+- 🌱 I’m currently building portfolio projects.
+- 👨🏽‍💻 I'm seeking an entry-level opportunity to utilize Python/Flask/Django, Javascript, HTML and CSS.
+- 💞️ I’m also looking to share my experiences as I journey on as a developer (it will be on Twitter and Dev.to), coming soon...
 
 <h1 align="center" > Emmanuel Oloyede </h1>
 <p align="center">
