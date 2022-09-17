@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming, open source contribution, music, Tech YouTubing😁 and football/soccer.
 - 🌱 I’m currently building portfolio projects.
 - 👨🏽‍💻 I'm seeking an entry-level opportunity to utilize Python/Flask/Django, Javascript, HTML and CSS.
-- 💞️ I’m also looking to share my experiences as I journey on as a developer (it will be on Twitter and Dev.to), coming soon...
+- 💞️ I’m also looking to share my experiences as I journey on as a developer (it will be on Twitter and Hashnode), coming soon...
 
 <h1 align="center" > Emmanuel Oloyede </h1>
 <p align="center">
