@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @techemmy
 
 - 👀 I’m interested in programming, open source contribution, music, Tech YouTubing😁 and football/soccer.
-- 🌱 I’m currently building portfolio projects.
-- 👨🏽‍💻 I'm seeking an entry-level opportunity to utilize Python/Flask/Django, Javascript, HTML and CSS.
+- 🌱 I’m currently building cool projects.
+- 👨🏽‍💻 I'm seeking an entry-level opportunity, hackathons, internships and open-source projects.
 - 💞️ I’m also looking to share my experiences as I journey on as a developer (it will be on Twitter and Hashnode), coming soon...
 
 <h1 align="center" > Emmanuel Oloyede </h1>
