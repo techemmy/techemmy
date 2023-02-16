@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @techemmy
-
-- 👀 I’m interested in programming, open source contribution, music, Tech YouTubing😁 and football/soccer.
 - 🌱 I’m currently building cool projects.
+- 👀 I’m interested in programming, open source contribution, music, Tech YouTubing😁 and football/soccer.
 - 👨🏽‍💻 I'm seeking an entry-level opportunity, hackathons, internships and open-source projects.
 - 💞️ I’m also looking to share my experiences as I journey on as a developer (it will be on Twitter and Hashnode/YouTube)
 
