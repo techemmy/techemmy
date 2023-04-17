@@ -6,7 +6,7 @@
 <h1 align="center" > Emmanuel Oloyede </h1>
 <p align="center">
 
-  <a href="https://twitter.com/iTechEmmy" target="_blank">
+  <a href="https://twitter.com/techemmy_" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   
