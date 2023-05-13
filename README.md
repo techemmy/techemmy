@@ -13,8 +13,11 @@
   <a href="https://www.linkedin.com/in/oloyede-emmanuel/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
+   <a href="https://www.youtube.com/@techemmy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
 
-![https://www.youtube.com/@techemmy](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 </p>
 <p align="center">
