@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.youtube.com/channel/UCi4tCYNfG7vWzxHJen3QOZg/" target="_blank">
+  <a href="https://www.youtube.com/channel/@TechEmmy/" target="_blank">
     <img src="https://img.shields.io/youtube/channel/views/UCi4tCYNfG7vWzxHJen3QOZg?label=YouTube&style=for-the-badge" alt="YouTube Views" />
   </a>
 
