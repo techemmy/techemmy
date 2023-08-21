@@ -6,7 +6,7 @@
 <h1 align="center" > Emmanuel Oloyede </h1>
 <p align="center">
 
-  <a href="https://twitter.com/ETOloyede" target="_blank">
+  <a href="https://twitter.com/iTechEmmy" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   
@@ -17,11 +17,10 @@
    <a href="https://www.youtube.com/@techemmy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
-
-
 </p>
-<p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
+<p>
+  <img width="40%" src="https://stats.quine.sh/techemmy/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=techemmy"/>
+  <img width="55%" src="https://stats.quine.sh/techemmy/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=techemmy" />
 </p>
 
 <!---
