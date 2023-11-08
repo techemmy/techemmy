@@ -18,6 +18,9 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
 </p>
+<p> 
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
+</p>
 <p>
   <img width="40%" src="https://stats.quine.sh/techemmy/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=techemmy"/>
   <img width="55%" src="https://stats.quine.sh/techemmy/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=techemmy" />
