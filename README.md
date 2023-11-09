@@ -19,7 +19,8 @@
   </a>
 </p>
 <p>
-  <img width="100%" src="https://stats.quine.sh/techemmy/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=techemmy"/>
+  <img width="50%" src="https://stats.quine.sh/techemmy/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=techemmy"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
 </p>
 
 <!---
