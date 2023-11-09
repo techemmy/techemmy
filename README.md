@@ -19,8 +19,8 @@
   </a>
 </p>
 <p>
-  <img width="50%" src="https://stats.quine.sh/techemmy/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=techemmy"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
+  <img width="35%" src="https://stats.quine.sh/techemmy/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=techemmy"/>
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
 </p>
 
 <!---
