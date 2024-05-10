@@ -18,9 +18,9 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
 </p>
-<p>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
-</p>
+<div style="display:grid;justify-content: center;">
+  <img width="100%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
+</div>
 
 <!---
 techemmy/techemmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
