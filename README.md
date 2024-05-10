@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
 </p>
-<p>
+<p style="text-align:center;>
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
 </p>
 
