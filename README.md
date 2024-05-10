@@ -19,7 +19,7 @@
   </a>
 </p>
 <p>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=techemmy&&show_icons=true&theme=dracula" />
 </p>
 
 <!---
