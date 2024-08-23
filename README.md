@@ -1,7 +1,7 @@
 - 🌱 I’m currently building cool projects.
-- 👀 I’m interested in programming, open source contribution, music, teaching programming😁 and football/soccer.
-- 👨🏽‍💻 I'm seeking tech opportunities, hackathons, internships or open-source projects.
-- 💞️ I’m also looking to share my experiences as I journey on as a developer (it will be on Twitter and Hashnode/YouTube)
+- 👀 I’m interested in programming, open source contribution, music, football/soccer, and teaching programming 😁.
+- 👨🏽‍💻 I'm seeking job/tech opportunities, hackathons, internships or open-source projects.
+- 💞️ I’m also sharing my experiences as I journey on as a developer (on Twitter, LinkedIn and Hashnode/YouTube)
 
 <h1 align="center" > Emmanuel Oloyede </h1>
 <p align="center">
